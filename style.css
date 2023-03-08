@@ -6,19 +6,45 @@ body {
 
 header{
   text-align: center;
+
 }
+.nav-link{
+  background-color: aqua;
+}
+
+img{
+  align-items: center;
+  width: 900px;
+}
+
 
 section{
   text-align: center;
 
 }
-nav.a{
-  padding-left: 10px;
-  padding-right: 10px;
-  color: brown;
+
+#featured-property.p{
+  text-align: center;
+  font-size:smaller;
+  
 
 }
+#featured-property.p{
+  
+  text-align: center;
+}
 
-#detail.div{
+
+#details{
   float: left;
+ background-color: red;
+}
+
+div{
+float: left;
+  text-align: left;
+  display: inline-table;
+  padding-left: 159px;
+  padding-right: 179px;
+  background-color: red;
 }
